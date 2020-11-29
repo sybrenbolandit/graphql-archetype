@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/dev/kotlin/workshop-kotlin-introduction" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/micro/micro-test" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/micro/micronaut-examples/hello-world-kotlin" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/micro/veganscan" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/micro/veganscan-api" value="PREVIEW" />
+        <entry key="$USER_HOME$/dev/ns/workshop/reactive-deep-dive/webflux-exercises/popstars" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
