@@ -10,6 +10,6 @@ import javax.inject.Singleton;
 public class ObjectDataFetcher implements DataFetcher<DTO> {
     @Override
     public DTO get(DataFetchingEnvironment dataFetchingEnvironment) {
-        return new DTO("Name");
+        return new DTO("${return-value}");
     }
 }
