@@ -23,6 +23,11 @@
       <directory></directory>
       <includes>
         <include>**/*.md</include>
+      </includes>
+    </fileSet>
+    <fileSet>
+      <directory></directory>
+      <includes>
         <include>mvnw</include>
       </includes>
     </fileSet>
