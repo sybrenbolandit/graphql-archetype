@@ -1,0 +1,7 @@
+type Query {
+    getObject(): Object
+}
+
+type Object {
+    name: String
+}
